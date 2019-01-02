@@ -1,0 +1,14 @@
+{
+  "public": {
+    "algolia": {
+      "appID": "566Q64HZTL",
+      "clientKey": "6ca1376c507de99b901d96890bdecbd8",
+      "authorClientKey": "1192c4a472020c8f71320f73684845be"
+    }
+  },
+	"private": {
+    "algolia": {
+      "serverKey": "3dcf235293fa80edc1edbf1a695d6739"
+    }
+	}
+}

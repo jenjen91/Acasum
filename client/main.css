@@ -1,0 +1,36 @@
+html {
+ box-sizing: border-box;
+}
+
+html, body{
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+body{
+	font-family: 'Roboto Slab', sans-serif;
+	line-height: 12px;
+	font-size: 12px;
+  background-color: #f0f0f0;
+}
+#react-target{
+	height: 100%;
+}
+#app{
+	height: 100%;
+}
+#wrapper{
+}
+#main{
+	padding: 20px 20px 60px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer{
+	background: #DDDDDD;
+	color: #000000;
+	bottom: 0;
+	padding: 12px;
+}
